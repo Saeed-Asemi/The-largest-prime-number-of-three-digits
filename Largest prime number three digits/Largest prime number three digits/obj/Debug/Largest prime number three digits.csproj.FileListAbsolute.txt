@@ -1,0 +1,7 @@
+D:\Uni\Programming\C#\Largest prime number three digits\Largest prime number three digits\bin\Debug\Largest prime number three digits.exe.config
+D:\Uni\Programming\C#\Largest prime number three digits\Largest prime number three digits\bin\Debug\Largest prime number three digits.exe
+D:\Uni\Programming\C#\Largest prime number three digits\Largest prime number three digits\bin\Debug\Largest prime number three digits.pdb
+D:\Uni\Programming\C#\Largest prime number three digits\Largest prime number three digits\obj\Debug\Largest prime number three digits.csprojAssemblyReference.cache
+D:\Uni\Programming\C#\Largest prime number three digits\Largest prime number three digits\obj\Debug\Largest prime number three digits.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\C#\Largest prime number three digits\Largest prime number three digits\obj\Debug\Largest prime number three digits.exe
+D:\Uni\Programming\C#\Largest prime number three digits\Largest prime number three digits\obj\Debug\Largest prime number three digits.pdb
